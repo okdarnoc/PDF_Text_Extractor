@@ -41,7 +41,7 @@ A powerful and user-friendly Python utility for extracting text from PDF files. 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pdf-text-extractor.git
+git clone https://github.com/okdarnoc/PDF_Text_Extractor.git
 cd pdf-text-extractor
 ```
 
